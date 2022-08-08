@@ -2,8 +2,8 @@
 
 💦 **Introduction:**
             
-           On providing the name of the movie, this system recommends the similar movies which fall on the same genre 
-           i.e. (Primary genre, Secondary genre, Tertiary genre).
+           On providing the name of the movie, this system recommends the similar movies
+           which fall on the same genre i.e. (Primary genre, Secondary genre, Tertiary genre).
 
 💦 **Packages:**
 
@@ -16,8 +16,9 @@
 
 💦 **Dataset: Scraping of data:**
 
-            Web scraping was done in the IMDB website to scrape the movies and there respective genre which will later
-            be used for building a movie recommendation system using clustering approach.
+            Web scraping was done in the IMDB website to scrape the movies and there 
+            respective genre which will later be used for building a movie 
+            recommendation system using clustering approach.
 
 > 1. Run scrapper.py to scrape the movies, which will be stored in the Dataset.csv file in form of:
 
@@ -36,7 +37,8 @@
 
     ❄️ Clustering_code:
 
-            💧 Run clustering_code, to check out how similar P_Genre, S_Genre, T_Genre is assigned with same Cluster_Id:
+            💧 Run clustering_code, to check out how similar P_Genre, S_Genre, T_Genre is 
+            assigned with same Cluster_Id:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rravii/Movie_Recommendation_System_Using_Clustering/master/Screenshots/clusterID.JPG" />
